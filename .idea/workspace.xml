@@ -2,7 +2,16 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="74ef9ef7-d3f2-4caf-b7da-d18eda31811e" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Day4/homework/Infoshare_takenameofcourse.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day6/homework/allegro/data/offer_7192730975_mk3.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day6/homework/allegro/data/offer_7350326221_mk3.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day6/homework/allegro/data/passat.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day6/homework/allegro/get_allegro_details.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day6/homework/allegro/get_allegro_details_rozwiazanie.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day6/homework/otomoto/data/ford-focus-1-6-tdci-salon-polska-serwis-aso-klima-ID6BwGlg.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day6/homework/otomoto/data/ford-focus-salon-polska-klima-sprawy-zadbany-polecam-ID6BxpMS.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day6/homework/otomoto/get_otomoto_details_css.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day6/homework/otomoto/get_otomoto_details_xpath.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day6/homework/parsel_homework.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -12,26 +21,7 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/../../isapyweb/Day06/source code/otomoto/get_otomoto_details_xpath.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-306" />
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Prework/SecondTask/SecondTask.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <folding>
-                <element signature="e#0#31#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <leaf />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -52,7 +42,7 @@
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
+  <component name="ProjectFrameBounds" extendedState="7">
     <option name="x" value="90" />
     <option name="y" value="130" />
     <option name="width" value="1750" />
@@ -72,34 +62,6 @@
               <item name="enviroment" type="b2602c69:ProjectViewProjectNode" />
               <item name="enviroment" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="enviroment" type="b2602c69:ProjectViewProjectNode" />
-              <item name="enviroment" type="462c0819:PsiDirectoryNode" />
-              <item name="Day6" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="enviroment" type="b2602c69:ProjectViewProjectNode" />
-              <item name="enviroment" type="462c0819:PsiDirectoryNode" />
-              <item name="Prework" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="enviroment" type="b2602c69:ProjectViewProjectNode" />
-              <item name="enviroment" type="462c0819:PsiDirectoryNode" />
-              <item name="Prework" type="462c0819:PsiDirectoryNode" />
-              <item name="FisrtTask" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="enviroment" type="b2602c69:ProjectViewProjectNode" />
-              <item name="enviroment" type="462c0819:PsiDirectoryNode" />
-              <item name="Prework" type="462c0819:PsiDirectoryNode" />
-              <item name="FourthTask" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="enviroment" type="b2602c69:ProjectViewProjectNode" />
-              <item name="enviroment" type="462c0819:PsiDirectoryNode" />
-              <item name="Prework" type="462c0819:PsiDirectoryNode" />
-              <item name="SecondTask" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
@@ -107,7 +69,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../Course" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../isapyweb" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -230,14 +192,34 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="7" />
-    <editor active="true" />
     <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24983476" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info id="DB Browser" order="3" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.3286119" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Version Control" order="7" />
+      <window_info anchor="bottom" id="Terminal" order="8" />
+      <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
+      <window_info anchor="bottom" id="Python Console" order="10" />
+      <window_info anchor="bottom" id="DB Execution Console" order="11" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
+    <layout-to-restore>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24983476" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.3286119" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.3286119" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -249,23 +231,14 @@
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-    </layout>
+    </layout-to-restore>
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/ThirdTask/ThirdTask.py" />
     <entry file="file://$PROJECT_DIR$/SecondTask/word_0.txt" />
     <entry file="file://$PROJECT_DIR$/Lesson/Lesson4/tmp.py" />
     <entry file="file://$PROJECT_DIR$/SecondTask/SecondTask.py" />
-    <entry file="file://$PROJECT_DIR$/Day6/parsel_homework.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="69">
-          <caret line="5" column="27" selection-end-line="28" selection-end-column="16" />
-          <folding>
-            <element signature="e#0#27#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/Day6/parsel_homework.py" />
     <entry file="file://$PROJECT_DIR$/Prework/FisrtTask/FirstTask.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-16" />
@@ -275,15 +248,22 @@
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/../../isapyweb/Day06/source code/otomoto/get_otomoto_details_xpath.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-306" />
-      </provider>
+      <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/Prework/SecondTask/SecondTask.py">
       <provider selected="true" editor-type-id="text-editor">
         <state>
           <folding>
             <element signature="e#0#31#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Day6/homework/allegro/get_allegro_details.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="e#0#9#0" expanded="true" />
           </folding>
         </state>
       </provider>
