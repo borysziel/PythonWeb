@@ -2,16 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="74ef9ef7-d3f2-4caf-b7da-d18eda31811e" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Day6/homework/allegro/data/offer_7192730975_mk3.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day6/homework/allegro/data/offer_7350326221_mk3.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day6/homework/allegro/data/passat.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day6/homework/allegro/get_allegro_details.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day6/homework/allegro/get_allegro_details_rozwiazanie.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day6/homework/otomoto/data/ford-focus-1-6-tdci-salon-polska-serwis-aso-klima-ID6BwGlg.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day6/homework/otomoto/data/ford-focus-salon-polska-klima-sprawy-zadbany-polecam-ID6BxpMS.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day6/homework/otomoto/get_otomoto_details_css.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day6/homework/otomoto/get_otomoto_details_xpath.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day6/homework/parsel_homework.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -42,7 +32,7 @@
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="90" />
     <option name="y" value="130" />
     <option name="width" value="1750" />
@@ -191,7 +181,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-7" y="-7" width="1550" height="838" extended-state="7" />
+    <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24983476" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
